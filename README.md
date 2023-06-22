@@ -1,10 +1,10 @@
 # liderazgo
 Proyecto con información sobre liderazgo
 
-#Descripción del proyecto:
+# Descripción del proyecto:
 El proyecto "Caminando hacia la Versatilidad" se centra en fomentar la adaptabilidad y flexibilidad en el crecimiento personal de los participantes. El objetivo principal es ayudar a las personas a desarrollar habilidades y actitudes que les permitan adaptarse de manera efectiva a los cambios, superar desafíos y aprovechar nuevas oportunidades en diferentes áreas de sus vidas.
 
-#Actividades del proyecto:
+# Actividades del proyecto:
 
 * Talleres de desarrollo personal: Se llevarán a cabo una serie de talleres interactivos y participativos, donde los participantes aprenderán sobre la importancia de la adaptabilidad y flexibilidad en el crecimiento personal. Los talleres incluirán actividades prácticas, ejercicios de reflexión y discusiones grupales para explorar diferentes aspectos de la adaptabilidad.
 
